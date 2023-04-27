@@ -1,1 +1,1 @@
-# vulnerabilities.tech.github.io-
+# vulnerabilities.tech.github.io
